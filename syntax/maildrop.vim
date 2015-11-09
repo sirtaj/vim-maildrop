@@ -69,4 +69,4 @@ hi def link mdVar           Identifier
 
 hi def link mdOperator      Operator
 
-let b:current_syntax = "openscad"
+let b:current_syntax = "maildrop"
